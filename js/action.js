@@ -204,7 +204,7 @@ $(function(){
 
             var can=$("#can"),wh=this.wh, num=this.num, flag=init.flag;
             this.image = new Image();
-            this.image.src="img/a.jpg";
+            this.image.src="a.jpg";
 
             ctx=can[0].getContext('2d');
             ctx.translate(0.5,0.5);
